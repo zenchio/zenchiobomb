@@ -179,7 +179,7 @@ while 1:
         input()
     elif menu == 3:
         system("cls||clear")
-        print(Fore.LIGHTWHITE_EX + " zenchio\n Bora185\n Arcturus")
+        print(Fore.LIGHTWHITE_EX + " zenchio\n")
         sleep(12)
     elif menu == 4:
         system("cls||clear")
