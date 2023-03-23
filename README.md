@@ -12,8 +12,8 @@ kurulum
 git clone https://github.com/zenchio/zenchiobomb.git
 cd zenchiobomb
 pip3 install -r requirements.txt
-python3 zenchiobomber.py 
+python zenchiobomber.py 
 
 
-(not eğer açılmazsa "python zenchiobomber.py" deneyin)
+(not eğer açılmazsa "python3 zenchiobomber.py" deneyin)
 ```
