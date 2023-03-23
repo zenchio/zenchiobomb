@@ -9,8 +9,16 @@ kurulum
 
 
 ```console
-git clone https://github.com/zenchio/zenchiobomber.git
-cd zenchiobomber
-pip3 install -r requirements.txt
-python3 zenchiobomber.py
+1.adım-  git clone https://github.com/zenchio/zenchiobomber.git
+
+2.adım- cd zenchiobomber
+
+3.adım- pip3 install -r requirements.txt
+
+4.adım- python3 zenchiobomber.py 
+4. adımda açılmazsa
+
+python zenchiobomber.py
+
+deneyin
 ```
