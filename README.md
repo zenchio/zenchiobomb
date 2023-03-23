@@ -1,4 +1,4 @@
-# Zenchiobomb
+# Zenonbomber
 
 [![Hits](https://hits.sh/gitlab.com/tingirifistik/enough.svg?label=views&extraCount=36250&color=007ec6)](https://hits.sh/gitlab.com/tingirifistik/enough/)
 
