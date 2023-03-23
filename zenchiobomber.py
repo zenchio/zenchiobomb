@@ -29,7 +29,7 @@ while 1:
                                __/ |      
                               |___/      
     Sms: {}                         
-    Ara: {}              {}by {}@tingirifistik\n  
+    Ara: {}              {}by {}@zenchio\n  
     """.format(Fore.LIGHTCYAN_EX, len(servisler_sms), len(servisler_call), Style.RESET_ALL, Fore.LIGHTRED_EX))
     try:
         menu = (input(Fore.LIGHTMAGENTA_EX + " 1- SMS Gönder\n 2- Ara\n 3- Katkıda Bulunanlar\n 4- Çıkış\n\n" + Fore.LIGHTYELLOW_EX + " Seçim: "))
@@ -178,7 +178,7 @@ while 1:
         input()
     elif menu == 3:
         system("cls||clear")
-        print(Fore.LIGHTWHITE_EX + " tingirifistik\n Bora185\n Arcturus")
+        print(Fore.LIGHTWHITE_EX + " zenchio\n Bora185\n Arcturus")
         sleep(12)
     elif menu == 4:
         system("cls||clear")
