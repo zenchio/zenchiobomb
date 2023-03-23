@@ -9,8 +9,8 @@ kurulum
 
 
 ```console
-git clone https://github.com/zenchio/zenchiobomber.git
-cd zenchiobomber
+git clone https://github.com/zenchio/zenchiobomb.git
+cd zenchiobomb
 pip3 install -r requirements.txt
 python3 zenchiobomber.py 
 
