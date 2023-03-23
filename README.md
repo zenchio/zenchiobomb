@@ -13,10 +13,10 @@ https://replit.com/@tingirifistik/Enough
 <h2>Kurulum</h2>
 
 ```console
-git clone https://gitlab.com/tingirifistik/enough.git
-cd Enough
+git clone https://github.com/zenchio/zenchiobomber.git
+cd zenchiobomber
 pip3 install -r requirements.txt
-python3 enough.py
+python3 zenchiobomber.py
 ```
 
 
